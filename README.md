@@ -203,7 +203,7 @@ int main(void)
   while (1)
   {
 	  Lcd_cursor(&lcd, 1,1);
-	   Lcd_string(&lcd, "LUTHEESH");
+	   Lcd_string(&lcd, "pavan");
 
 	  }
     
